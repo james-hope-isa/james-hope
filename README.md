@@ -8,5 +8,3 @@
 - 📫 How to reach me: jameshopegit@gmail.com
 - 😄 Pronouns: I, You, He, She, It, We, You, They (...)
 - ⚡ Fun fact: I play the piano.
-
-S

@@ -3,8 +3,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-Designing unique and engaging digital experiences makes my day (or night).  \
-I’m currently developing my programming skills, staying focused on perfecting:  \
+:computer: Designing unique and engaging digital experiences makes my day (or night).  \
+:wrench: I’m currently developing my programming skills, staying focused on perfecting:  \
 ![Badge](https://img.shields.io/badge/Markup_Language-HTML5-%235d8239?logo=HTML5)  \
 ![Badge](https://img.shields.io/badge/Style_Sheet_Language-CSS3-%235d8239?logo=CSS3&logoColor=blue)  \
 ![Badge](https://img.shields.io/badge/Languages-JavaScript-%235d8239?logo=JavaScript)  \
